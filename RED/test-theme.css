@@ -491,4 +491,14 @@ a.lnkPremiere:active {
   color: #FFF !important; }
 
 .skinHeader, html {
-  color: #FFF !important; }
+  color: #FFF; }
+  
+.checkboxListLabel, .inputLabel, .inputLabelUnfocused, .paperListLabel, .textareaLabelUnfocused {
+	color: #FFF !important; }
+	
+.dialog {
+    background-color: rgba(0, 0, 0, 0.87);
+}
+
+.emby-textarea {
+color: #000 !important; }
