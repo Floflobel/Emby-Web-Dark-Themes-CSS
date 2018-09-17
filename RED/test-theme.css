@@ -72,8 +72,10 @@ _________________________________________________________________________
   background-color: #E81123 !important; }
   
 .emby-checkbox:checked + span + span + .checkboxOutline, .itemProgressBarForeground {
-    background-color: #E81123;
+    background-color: #E81123 !important;
 }
+
+
 
 .emby-checkbox:checked + span + span + .checkboxOutline,
 .progressring-spiner {
