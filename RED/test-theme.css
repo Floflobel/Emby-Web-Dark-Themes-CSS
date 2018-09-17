@@ -68,7 +68,7 @@ _________________________________________________________________________
 /* ------------------------ 1. ACCENT COLORS ------------------------- */
 /* ----- 1.1 Buttons ----- */
 /* 1.1.1 Checkboxes */
-.emby-checkbox:checked + span + span + .checkboxOutline > .checkboxOutlineTick {
+.emby-checkbox:checked + span + span + .checkboxOutlin {
   background-color: #E81123 !important; }
 
 .emby-checkbox:checked + span + span + .checkboxOutline,
@@ -91,10 +91,6 @@ _________________________________________________________________________
 .raised-mini.emby-button {
   background: #E81123 !important;
   color: #ffffff !important; }
-  
-/* .emby-button-foreground { */
-  /* color: #999; */
-  /* color: rgba(255,255,255,.5); } */
 
 /* Restart */
 .btnRestartContainer.emby-button {
