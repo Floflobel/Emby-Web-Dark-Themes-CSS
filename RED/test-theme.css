@@ -65,29 +65,6 @@ _________________________________________________________________________
 		   
 */
 
-/* content: 'Sélectionner les films voulus, ils seront automatiquement téléchargés. Même mot de passe que ici. URL: https://ombi.home.floheberg.xyz' !important; */
-/* content: 'Le serveur fonctionne en mode dégradé les performances sont réduites.' !important; */
-/* content: 'La vitesse du serveur a été triplée, le chargement des pages devraient être plus rapide.' !important; */
-
-.sectionTabs:after {
-content: "Un disque dure est mort, du coup j'ai plus assez de place pour mettre les séries." !important;
-visibility: visible !important;
-font-size: 100%;
-font-weight: bold; }
-
-/* Remove sync button & convert*/
-[data-id="sync"] {display: none !important;}
-[data-id="convert"] {display: none !important;}
-
-div.verticalSection.appInfoSection {
-  display: none;
-}
-
-/* ----- Change background Image Transparency ----*/
-.backgroundContainer.withBackdrop {
-    background: rgba(0, 0, 0, .6)!important;
-}
-
 /* ------------------------ 1. ACCENT COLORS ------------------------- */
 /* ----- 1.1 Buttons ----- */
 /* 1.1.1 Checkboxes */
