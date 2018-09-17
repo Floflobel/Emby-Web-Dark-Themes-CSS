@@ -479,21 +479,21 @@ a.lnkPremiere:active {
   
 /* Dashboard */
 .backgroundContainer, html {
-    background-color: #141414;
+    background-color: #141414 !important;
 }
 
 .paperList, .visualCardBox {
-    background-color: #2b2b2b;
+    background-color: #2b2b2b !important;
 }
 
 .paperList {
-    border: 1px solid #505050;
+    border: 1px solid #505050 !important;
 }
 
 .cardText-secondary, .fieldDescription, .guide-programNameCaret, .listItem .secondary, .nowPlayingBarSecondaryText, .programSecondaryTitle, .secondaryText {
-	color: #FFF;
+	color: #FFF !important;
 }
 
 .skinHeader, html {
-    color: #FFF;
+    color: #FFF !important;
 }
